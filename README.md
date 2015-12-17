@@ -12,4 +12,17 @@ Rules are easy:
 - if a solder has no people around him he gets mad and suicide 
 - if a soldier is close to a bomb he dies
 
-It wins the battle the army which has more alive soldiers in the end.  # War-Game
+It wins the battle the army which has more alive soldiers in the end. 
+
+Usage
+-----
+
+```
+mvn clean install
+java -jar target/war-game.jar
+```
+
+Tests
+-----
+
+Just a single test has been provided since this is only a toy project.
